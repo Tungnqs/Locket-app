@@ -1,4 +1,4 @@
-var video = document.querySelector("#videoElement");
+var video = document.getElementById("videoElement");
 
 navigator.getUserMedia =
   navigator.getUserMedia ||
